@@ -1,0 +1,81 @@
+Copyright (c) 2026 Patronus Project Developers. All rights reserved.
+
+ENGLISH
+
+This repository is published under an "All Rights Reserved" model.
+
+The source code is made available only for the following limited purposes:
+
+1. Security review and independent audit.
+2. Studying how the software works.
+3. Building the application from source for personal, internal, and non-commercial evaluation or use.
+4. Preparing and submitting contributions to the official Patronus repository.
+
+No other rights are granted.
+
+Unless you have prior written permission from the copyright holders, you may not:
+
+1. Fork this repository for publication, redistribution, or ongoing independent development.
+2. Copy the code into another repository, project, product, SDK, library, framework, service, or commercial offering.
+3. Modify, adapt, translate, or create derivative works for distribution outside the official Patronus repository.
+4. Repackage, redistribute, sublicense, rent, lease, sell, or otherwise provide the software or its source code to third parties.
+5. Use this code, in whole or in part, to build any separate messenger, communication product, server, library, or other software solution.
+6. Use this code or any derivative of it for commercial purposes.
+7. Publish unofficial builds, mirrors, patched releases, or derived distributions.
+
+Contribution policy:
+
+1. You may propose changes only through the official repository workflow, such as patches or pull requests.
+2. Submitting a contribution does not give you any ownership in the project as a whole.
+3. By submitting a contribution, you represent that you have the right to submit it and that the project maintainers may review, modify, reject, or integrate it into the official project.
+
+Trademark and naming:
+
+1. This license does not grant any right to use the Patronus name, branding, logos, or project identity except for truthful reference to the original project.
+
+Reservation of rights:
+
+1. All rights not expressly granted by this license are reserved.
+2. Access to the source code does not mean permission to reuse it outside the limited cases listed above.
+
+For feature proposals, concept discussions, commercial permissions, partnership requests, or any other licensing questions, contact the project developers.
+
+RUSSIAN
+
+Этот репозиторий опубликован по модели "All Rights Reserved".
+
+Исходный код открыт только для следующих ограниченных целей:
+
+1. Проведение аудита безопасности и независимой проверки кода.
+2. Изучение того, как работает программное обеспечение.
+3. Сборка приложения из исходников для личного, внутреннего и некоммерческого ознакомительного использования.
+4. Подготовка и отправка вкладов в официальный репозиторий Patronus.
+
+Никакие иные права не предоставляются.
+
+Если у вас нет предварительного письменного разрешения правообладателей, вам запрещено:
+
+1. Публиковать форки этого репозитория, распространять их или вести на их основе самостоятельную разработку.
+2. Копировать код в другой репозиторий, проект, продукт, SDK, библиотеку, фреймворк, сервис или коммерческое решение.
+3. Изменять, адаптировать, переводить или создавать производные работы для распространения вне официального репозитория Patronus.
+4. Переупаковывать, распространять, сублицензировать, сдавать в аренду, продавать или иным образом передавать ПО либо его исходный код третьим лицам.
+5. Использовать этот код полностью или частично для создания отдельного мессенджера, коммуникационного продукта, сервера, библиотеки или любого иного программного решения.
+6. Использовать этот код или любые его производные в коммерческих целях.
+7. Публиковать неофициальные сборки, зеркала, патченные релизы или производные дистрибутивы.
+
+Политика контрибьютинга:
+
+1. Предлагать изменения можно только через официальный workflow репозитория, например через patch или pull request.
+2. Отправка вклада не даёт вам прав собственности на проект в целом.
+3. Отправляя вклад, вы подтверждаете, что имеете право его отправлять, а сопровождающие проекта могут проверять, изменять, отклонять или включать его в официальный проект.
+
+Товарные знаки и наименование:
+
+1. Эта лицензия не даёт права использовать имя Patronus, брендинг, логотипы или идентичность проекта, кроме правдивого упоминания исходного проекта.
+
+Оговорка о сохранении прав:
+
+1. Все права, которые прямо не предоставлены этим текстом, сохраняются за правообладателями.
+2. Сам факт доступа к исходному коду не означает разрешения на его использование вне прямо перечисленных выше случаев.
+
+По вопросам новых функций, новых концептов, коммерческих разрешений, партнёрства или любых иных вопросов лицензирования свяжитесь с разработчиками проекта.

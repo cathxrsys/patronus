@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Matches ThemeTelegraph.qml's "background", the default ("dark") theme.
+         Update this alongside ThemeCatalog.qml's defaultTheme so the native
+         cold-start window/splash background never drifts from the in-app theme. -->
+    <color name="windowBackground">#0a0f14</color>
+</resources>
